@@ -1,6 +1,6 @@
 # Order Processing System
 
-A simple Spring Boot REST API for managing customer orders.
+Managing customer orders.
 
 ## Features
 - Create an order with multiple products
