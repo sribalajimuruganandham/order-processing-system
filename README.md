@@ -9,7 +9,7 @@ Managing customer orders.
 - Update order status (`PENDING`, `PROCESSING`, `SHIPPED`, `DELIVERED`)
 - Cancel an order if status is `PENDING`
 - Auto-update `PENDING` orders to `PROCESSING` every 5 mins
-- Payment service added
+- Payment Service
 
 ## Tech Stack
 - Java 24
